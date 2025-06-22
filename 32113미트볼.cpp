@@ -90,7 +90,6 @@ int main (){
     // 위쪽 방향
     if(x!= 0){
             push(L,y);
-            cnt++ ;
             x= x-1;
         }
     for (j = y; j >= 0;) {
